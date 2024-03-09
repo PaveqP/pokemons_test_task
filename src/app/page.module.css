@@ -5,10 +5,6 @@
   gap: 10px;
 }
 
-/* .pokemons__button{
-  background-color: blue;
-} */
-
 .pokemonsList{
   margin-top: 75px;
   display: flex;
@@ -33,7 +29,6 @@
   font-weight: 700;
   line-height: 48px;
   color: #A0A0A0;
-  /* background-color: black; */
 }
 
 .card__name::first-letter{
@@ -44,11 +39,6 @@
   align-self: center;
   width: 300px;
   height: 300px;
-  /* background-color: black; */
-}
-
-.card__stats{
-  /* background-color: black; */
 }
 
 .stats_stat{
@@ -56,7 +46,6 @@
   font-weight: 500;
   line-height: 25.5px;
   color: #A0A0A0;
-  /* background-color: black; */
 }
 
 .card__loader{
