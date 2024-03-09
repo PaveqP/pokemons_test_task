@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/github-pages',
+    basePath: '/pokemons_test_task',
 };
 
 export default nextConfig;
